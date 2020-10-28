@@ -1,4 +1,4 @@
-""" Pedir un número entre 0 y 9.999 y mostrarlo con las cifras al revés. """
+""" Pedir un número entre 0 y 9.999, decir si es capicúa """
 
 def question(a):
     if a == str(a[::-1]):
