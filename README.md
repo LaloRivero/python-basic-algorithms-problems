@@ -1,6 +1,6 @@
 # Python Challenges
 
-* Solving algorithms problems using python:
+### Solving algorithms problems using python:
 
 - Pedir los coeficientes de una ecuación de 2º grado, y muestre sus soluciones reales. Si no existen, debe indicarlo.
 - Pedir el radio de un círculo y calcular su área. A=PI*r^2.
